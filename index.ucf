@@ -1,0 +1,44 @@
+NET	"clk"				LOC="B8";
+NET	"rst_n"			LOC="H13";
+
+//NET	"ienable"			LOC="H18";
+//NET  	"on_off"			LOC="G18";
+NET	"c_addr<0>"		LOC="L15";
+NET	"c_addr<1>"		LOC="K12";
+NET	"c_addr<2>"		LOC="L17";
+NET	"c_addr<3>"		LOC="M15";
+NET	"beep"			LOC="T17";
+
+NET	"lled<0>"		LOC="J14";
+NET	"lled<1>"		LOC="J15";
+NET	"lled<2>"		LOC="K15";
+NET	"lled<3>"		LOC="K14";
+NET	"lled<4>"		LOC="E17";
+NET	"lled<5>"		LOC="P15";
+NET	"lled<6>"		LOC="F4";
+NET	"lled<7>"		LOC="R4";
+NET	"on_off"			LOC="R17";
+NET	"spe"				LOC="G18";
+NET	"left"			LOC="D18";
+NET	"right"			LOC="B18";
+NET	"ena"				LOC="E18";
+NET	"pause"			LOC="N17";
+
+NET	"c_oe"			LOC="M16";
+NET	"c_st"			LOC="K13";
+NET	"c_data"			LOC="M14";
+NET	"c_clk"			LOC="L16";
+
+NET  "sco_data<7>"   LOC = "L18";
+NET  "sco_data<6>"   LOC = "F18";
+NET  "sco_data<5>"   LOC = "D17";
+NET  "sco_data<4>"   LOC = "D16";
+NET  "sco_data<3>"   LOC = "G14";
+NET  "sco_data<2>"   LOC = "J17";
+NET  "sco_data<1>"   LOC = "H14";
+NET  "sco_data<0>"   LOC = "C17";
+
+NET  "sel<0>"     LOC = "F17";
+NET  "sel<1>"     LOC = "H17";
+NET  "sel<2>"     LOC = "C18";
+NET  "sel<3>"     LOC = "F15";
